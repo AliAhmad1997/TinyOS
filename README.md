@@ -1,2 +1,1 @@
-# TinyOS
-TinyOS Hands on
+# DevSES
